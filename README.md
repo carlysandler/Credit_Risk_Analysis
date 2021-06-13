@@ -34,7 +34,7 @@ __Bulleted results here__
 __Bulleted results here__
 
 
-- _Technical Analysis (Six code blocks, one per model)
+- _Technical Analysis_
 
 1. Naive Random Oversampling 
 
