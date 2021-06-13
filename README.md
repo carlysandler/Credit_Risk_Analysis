@@ -4,7 +4,9 @@ Data Preparation, Statistical Reasoning and Machine Learning: Predicting Credit 
 
 ## Challenge Overview
 ---
-The purpose of this project is to apply supervised machine learning alogthrims to determine credit card risk. Due to the uncertainity and imbalanced classification nature of credit risk,
+The purpose of this project is to apply supervised machine learning alogthrims to determine credit card risk. It is in the best interest of financial institutions, banks, and peer-to-peer lending firms to automate and improve the accuracy of detecting high-risk individuals, prior to granting loans to assure minimal default. With machine learning, it is particullary challenging due to imbalanced distribution of risk classification (low risk vs high risk), as in a given sample dataset, there are substanitally more low-risk applicants than low-risk. 
+
+To due to the difficulty of screening for fewer high-risk applicants, it is beneficial to deploy various ML models, that reduce bias and resample datasets to determine the best methodology or alogothrim to accurately predict credt-card risk. We delve into 6 different models and make a recommendation for ML implementation.
 
 ## Features and Data Resources
 ---
@@ -26,7 +28,8 @@ The purpose of this project is to apply supervised machine learning alogthrims t
 
 <img width="819" alt="resampling_summary" src="https://user-images.githubusercontent.com/77628698/121818399-f3879400-cc54-11eb-85a5-690f4073d5fd.png">
 
-__Bulleted results here__
+
+
 
 - Ensemble Classifers (2)
 <img width="717" alt="D3_summary" src="https://user-images.githubusercontent.com/77628698/121818470-511be080-cc55-11eb-8413-b0b19324f3d9.png">
